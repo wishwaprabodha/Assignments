@@ -29,6 +29,10 @@
 * **nltk** - *processing toolkit for NLP tasks*
 * **pandas** - *writing to csv*
 
+### Modifications
+
+* **Two methods are added** - *Method 2 is more optimized by using dictionaries and punctuation marks are also removed from extracted Strings*
+
 *-Not Completed Yet-*
 
-#### Thank You!
+## Thank You!
