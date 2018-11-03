@@ -8,7 +8,7 @@
 
 ```
 01. Import packages.
-02. Create a function to get all filenames to a list.
+02. Get all filenames to a list.
 03. Check the filepath and categorize those accordingly.
 04. Train/Test split. (filenames)
 05. Get the tokenized and cleaned wordlist for respective category. (List of lists)
@@ -44,7 +44,7 @@
 
 ### Imporatant
 
-* **Last two functions are not executed** - * Due to less processing power for the computation*
+* **Last two functions are not executed** - *Due to less processing power for the computation*
 
 *-Completed for submission-*
 
